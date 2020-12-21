@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Hello everyone:
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is Shize Li portfolio.
+
+Software Engineer, Front-end Engineer, Back-End Engineer
