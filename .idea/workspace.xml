@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad65ce-33be-4f61-a923-bfee1552e120" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/TinderNews-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/TinderNews-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/TinderNews-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/TinderNews-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/jobrecommendation-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/jobrecommendation-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/satellite-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/shoppingcart-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/shoppingcart-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/shoppingcart-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-details-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-details-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-details-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-details-4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +52,7 @@
       <workItem from="1608534114470" duration="8504000" />
       <workItem from="1608542654583" duration="3019000" />
       <workItem from="1608586253571" duration="14868000" />
-      <workItem from="1608628102908" duration="2284000" />
+      <workItem from="1608628102908" duration="3619000" />
     </task>
     <servers />
   </component>
